@@ -14,4 +14,11 @@
     <integer name="config_activityShortDur">75</integer>
     <integer name="config_activityDefaultDur">110</integer>
 
+    <string-array name="config_locationProviderPackageNames" translatable="false">
+        <!-- The Google provider -->
+        <item>com.google.android.gms</item>
+        <!-- The standard AOSP fused location provider -->
+        <item>com.android.location.fused</item>
+    </string-array>
+
 </resources>
