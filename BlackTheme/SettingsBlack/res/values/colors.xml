@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- We have suggestions/conditions nuked, but if we ever want to use them
+    <color name="condition_card_background">@*android:color/black</color>
+    <color name="suggestion_condition_background">@*android:color/black</color>
+    <color name="suggestion_tile_background">@*android:color/black</color> -->
+
+</resources>
