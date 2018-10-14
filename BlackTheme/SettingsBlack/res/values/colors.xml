@@ -6,4 +6,9 @@
     <color name="suggestion_condition_background">@*android:color/black</color>
     <color name="suggestion_tile_background">@*android:color/black</color> -->
 
+    <!-- Coral Reef -->
+    <color name="BottomBarBackgroundColor">@*android:color/black</color>
+    <color name="bottom_nav_text_icon_active">@android:color/white</color>
+    <color name="bottom_nav_text_icon_inactive">@*android:color/hint_foreground_light</color>
+
 </resources>
