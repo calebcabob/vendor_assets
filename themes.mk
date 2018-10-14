@@ -1,8 +1,5 @@
 # Themes
 PRODUCT_PACKAGES += \
-    SettingsDark \
-    SettingsIntelligenceDark \
-    SystemDark \
     UserOne \
     UserTwo \
     UserThree \

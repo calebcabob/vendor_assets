@@ -1,14 +1,14 @@
 # Overlays
-PRODUCT_PACKAGE_OVERLAYS += vendor/themes/overlay/common/
+PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/common/
 
 # Accents
-include vendor/themes/accents.mk
+include vendor/assets/accents.mk
 
 # Boot animation
-include vendor/themes/bootanimation.mk
+include vendor/assets/bootanimation.mk
 
 # Sounds
-include vendor/themes/sounds.mk
+include vendor/assets/sounds.mk
 
 # Themes
-include vendor/themes/themes.mk
+include vendor/assets/themes.mk
