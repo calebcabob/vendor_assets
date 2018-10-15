@@ -1,4 +1,4 @@
-# Accents
+# Fruity Pebbles 1/2
 PRODUCT_PACKAGES += \
     Amber \
     Black \
