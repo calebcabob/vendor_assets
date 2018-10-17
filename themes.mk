@@ -21,3 +21,10 @@ PRODUCT_PACKAGES += \
     SystemBlackTheme \
     SysuiQsBlackTheme \
     GBoardBlackTheme
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim
