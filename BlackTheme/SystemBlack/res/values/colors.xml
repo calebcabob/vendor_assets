@@ -45,4 +45,7 @@
     <color name="notification_snooze_text">@*android:color/theme_text1</color>
     <color name="notification_text_color1">@*android:color/theme_text1</color>
 
+    <!-- Permission icon -->
+    <color name="app_permission_icon_tint">@android:color/white</color>
+
 </resources>
