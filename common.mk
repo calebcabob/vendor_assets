@@ -1,5 +1,8 @@
-# Overlays
+# Theme overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/common/
+
+# AOSP overlays
+PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/aosp/
 
 # Accents
 include vendor/assets/accents.mk
