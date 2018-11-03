@@ -25,6 +25,6 @@ PRODUCT_PACKAGES += \
 # QS tile styles
 PRODUCT_PACKAGES += \
     QStileCircleTrim \
-    QStileDefault \
     QStileDualToneCircle \
+    QStileHexicon \
     QStileSquircleTrim
