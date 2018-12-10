@@ -14,7 +14,8 @@ PRODUCT_PACKAGES += \
     SystemDarkTheme \
     SysuiQsDarkTheme \
     GBoardDarkTheme \
-    WellbeingDarkTheme
+    WellbeingDarkTheme \
+    GoogleIntelligenceSenseDarkTheme
 
 # Black themes
 PRODUCT_PACKAGES += \
@@ -22,7 +23,12 @@ PRODUCT_PACKAGES += \
     SystemBlackTheme \
     SysuiQsBlackTheme \
     GBoardBlackTheme \
-    WellbeingBlackTheme
+    WellbeingBlackTheme \
+    GoogleIntelligenceSenseBlackTheme
+
+# Light themes
+PRODUCT_PACKAGES += \
+    GoogleIntelligenceSenseLightTheme
 
 # QS tile styles
 PRODUCT_PACKAGES += \
