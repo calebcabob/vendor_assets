@@ -28,7 +28,8 @@ PRODUCT_PACKAGES += \
 
 # Light themes
 PRODUCT_PACKAGES += \
-    GoogleIntelligenceSenseLightTheme
+    GoogleIntelligenceSenseLightTheme \
+    GBoardLightTheme
 
 # QS tile styles
 PRODUCT_PACKAGES += \
