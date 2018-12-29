@@ -37,3 +37,9 @@ PRODUCT_PACKAGES += \
     QStileDualToneCircle \
     QStileHexicon \
     QStileSquircleTrim
+
+# Switch styler
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch
