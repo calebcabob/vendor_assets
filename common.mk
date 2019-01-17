@@ -12,3 +12,6 @@ include vendor/assets/sounds.mk
 
 # Themes
 include vendor/assets/themes.mk
+
+# Fonts
+include vendor/assets/fonts.mk
