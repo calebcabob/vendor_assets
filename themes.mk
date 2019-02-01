@@ -13,14 +13,16 @@ PRODUCT_PACKAGES += \
     SettingsDarkTheme \
     SystemDarkTheme \
     SysuiQsDarkTheme \
-    GBoardDarkTheme
+    GBoardDarkTheme \
+    WellbeingDarkTheme
 
 # Black themes
 PRODUCT_PACKAGES += \
     SettingsBlackTheme \
     SystemBlackTheme \
     SysuiQsBlackTheme \
-    GBoardBlackTheme
+    GBoardBlackTheme \
+    WellbeingBlackTheme
 
 # QS tile styles
 PRODUCT_PACKAGES += \
