@@ -60,4 +60,7 @@
     <!-- Permission icon -->
     <color name="app_permission_icon_tint">@android:color/white</color>
 
+    <!-- Keyboard shortcuts colors -->
+    <color name="ksh_keyword_color">#fff</color>
+
 </resources>
