@@ -16,9 +16,9 @@
     <color name="immersive_cling_text_color">@android:color/white</color>
     <color name="immersive_cling_button_text_color">@android:color/white</color>
 
-     <!-- Resolver -->
+    <!-- Resolver -->
     <color name="resolver_list_bg">@*android:color/background_material_dark</color>
-    <color name="chooser_service_row_background_color">@*android:color/background_material_dark</color>
+    <color name="chooser_service_row_background_color">#e5e5e5</color>
 
     <!-- Autofill save dialog -->
     <color name="autofill_save_title_color">@*android:color/primary_device_default_dark</color>
@@ -31,14 +31,12 @@
     <!-- Two target preference vertical divider color -->
     <color name="list_divider_dark">#64eeeeee</color>
 
-    <!-- Notification info -->
-    <color name="notification_info_button_text">@*android:color/notification_default_color</color>
-
     <!-- Color Constants -->
     <color name="theme_text1">#ffe5e5e5</color> <!-- text primary -->
     <color name="theme_text2">#b3e5e5e5</color>  <!-- text secondary -->
 
     <!-- Notifications -->
+    <color name="notification_info_button_text">@*android:color/notification_default_color</color>
     <color name="notification_legacy_background_color">#151618</color>
     <color name="notification_material_background_dimmed_color">#151618</color>
     <color name="notification_material_background_low_priority_color">#151618</color>
@@ -46,7 +44,7 @@
     <color name="notification_shade_background_color">#151618</color>
     <color name="notification_guts_bg_color">#151618</color>
     <color name="notification_material_background_color">#151618</color>
-    <color name="notification_default_color">@*android:color/theme_text1</color>
+    <color name="notification_default_color">@*android:color/theme_text1</color> <!-- Gray 600 -->
     <color name="notification_action_list">#151618</color>
     <color name="notification_action_list_dark">#151618</color>
     <color name="notification_primary_text_color_light">@*android:color/theme_text1</color>
@@ -62,5 +60,8 @@
 
     <!-- Keyboard shortcuts colors -->
     <color name="ksh_keyword_color">#fff</color>
+
+    <!-- Floating Dialogues -->
+    <color name="background_floating_material_dark">@*android:color/background_material_dark</color>
 
 </resources>
