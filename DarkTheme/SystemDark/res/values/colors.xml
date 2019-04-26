@@ -26,7 +26,6 @@
 
     <!-- Toast text and bg colors -->
     <color name="toast_bg_color">#151618</color>
-    <color name="toast_text_color">@android:color/white</color>
 
     <!-- Two target preference vertical divider color -->
     <color name="list_divider_dark">#64eeeeee</color>
@@ -63,5 +62,8 @@
 
     <!-- Floating Dialogues -->
     <color name="background_floating_material_dark">@*android:color/background_material_dark</color>
+
+    <!-- Common app text color -->
+    <color name="primary_text_default_material_light">@android:color/white</color>
 
 </resources>
