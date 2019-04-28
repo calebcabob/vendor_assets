@@ -5,7 +5,8 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/common/
 include vendor/assets/accents.mk
 
 # Boot animation
-include vendor/assets/bootanimation.mk
+PRODUCT_PACKAGES += \
+     bootanimation.zip
 
 # Sounds
 include vendor/assets/sounds.mk
